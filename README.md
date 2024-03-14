@@ -1,5 +1,5 @@
 # Remember-Me-Feature :
-Ever wonder how remember me feature works , here's how .
+Ever wonder how remember me feature works , here's how in code format .
 
 
 
@@ -14,4 +14,4 @@ Ever wonder how remember me feature works , here's how .
 
 
 
-                                             credits to Amit Sharma .
+                                          credits to Amit Sharma .
